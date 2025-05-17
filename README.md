@@ -17,8 +17,8 @@ Um agente professor elabora um flashcard baseado na pesquisa realizada pelo agen
 1. **Clone este repositório**
 
 ```bash
-    git clone [LINK DO SEU REPOSITÓRIO]
-    cd [NOME DO SEU REPOSITÓRIO]
+    git clone https://github.com/G-OliverDev/flashcards-generator.git
+    cd flashcards-generator
 ```
 2. **Configure sua chave da API do Google:**
 
