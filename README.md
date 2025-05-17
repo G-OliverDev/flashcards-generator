@@ -31,7 +31,7 @@ Um agente professor elabora um flashcard baseado na pesquisa realizada pelo agen
 3. **Execute o script:**
 
 ```bash
-    python [nome_do_arquivo.py]
+    python main.py
 ```
 
 4. **Siga as instruções:** Digite uma frase em inglês e uma palavra ou expressão que esteja contida nessa frase que deseja aprender e gerar um flashcard a partir dela. Após isso, o programa irá informar que o flashcard foi criado com sucesso.
